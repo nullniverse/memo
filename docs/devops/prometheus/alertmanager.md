@@ -260,7 +260,11 @@ prometheus alert rules](https://awesome-prometheus-alerts.grep.to/rules)
 Alerts must be configured in the [Prometheus operator](prometheus_operator.md)
 helm chart, under the `additionalPrometheusRulesMap`. For example:
 
+<<<<<<< HEAD
 ```yaml
+=======
+```yml
+>>>>>>> 9a4aafc (Restarting commit)
 additionalPrometheusRulesMap:
   - groups:
       - name: alert-rules
