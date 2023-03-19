@@ -4,4 +4,4 @@ date: 20230319
 author: nullniverse
 ---
 
-I'm available through [my blog](https://blog.nullniverse.xyz)
+I'm available through [my blog](https://blog.nullniverse.xyz) where I ocasionally write.
