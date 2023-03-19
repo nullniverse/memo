@@ -570,9 +570,9 @@ extra_css: [stylesheets/extra.css, stylesheets/links.css]
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/lyz-code
+      link: https://github.com/nullniverse
     - icon: fontawesome/solid/rss
-      link: https://lyz-code.github.io/blue-book/newsletter/0_newsletter_index
+      link: https://nullniverse.github.io/memo/newsletter/0_newsletter_index
 
-repo_name: lyz-code/blue-book
-repo_url: https://github.com/lyz-code/blue-book
+repo_name: nullniverse/memo
+repo_url: https://github.com/nullniverse/memo
