@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    
+    <title>Nullniverse&#39;s Blue Book</title>
+    <description>My personal digital garden</description>
+    <link>https://memo.nullniverse.xyz</link>
+    <atom:link href="https://memo.nullniverse.xyz/monthly.xml" rel="self" type="application/rss+xml"/>
+
+    
+    <managingEditor>nullniverse</managingEditor>
+
+    
+    <pubDate>2023-03-19 21:59:50.426746</pubDate>
+    <ttl>43200</ttl>
+
+    
+    <generator>mkdocs-newsletter - v1.0.1</generator>
+
+    
+    
+    <image><url>https://memo.nullniverse.xyz/img/logo.bmp</url><title>Nullniverse's Blue Book</title>
+      <link>https://memo.nullniverse.xyz</link>
+    </image>
+    
+
+    
+    
+  </channel>
+</rss>
