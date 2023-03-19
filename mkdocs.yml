@@ -5,7 +5,6 @@ site_author: nullniverse
 site_url: https://memo.nullniverse.xyz
 nav:
   - Introduction: index.md
-  - Projects: projects.md
   - Contact: contact.md
 
 plugins:
