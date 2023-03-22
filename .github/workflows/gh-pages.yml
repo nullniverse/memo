@@ -45,6 +45,13 @@ jobs:
       - name: Make the site
         run: make build-docs
 
+      - name: Add custom domain
+        run: |
+          touch CNAME
+          || echo 'memo.nullniverse.xyz' > CNAME
+             
+
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
