@@ -48,7 +48,7 @@ jobs:
       - name: Add custom domain
         run: |
           touch CNAME
-          || echo 'memo.nullniverse.xyz' > CNAME
+          echo 'memo.nullniverse.xyz' > CNAME
              
 
 
