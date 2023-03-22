@@ -27,6 +27,11 @@ jobs:
       - name: Install dependencies
         run: pip install packaging==21.3 make install
 
+      - name: Add custom domain
+        run: |
+          touch CNAME
+          echo 'memo.nullniverse.xyz' > CNAME
+
       - name: Update requirements
         run: make update
 
@@ -44,13 +49,6 @@ jobs:
 
       - name: Make the site
         run: make build-docs
-
-      - name: Add custom domain
-        run: |
-          touch CNAME
-          echo 'memo.nullniverse.xyz' > CNAME
-             
-
 
       - name: Push changes
         uses: ad-m/github-push-action@master
