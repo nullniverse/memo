@@ -3,53 +3,41 @@ title: Introduction
 author: nullniverse
 ---
 
-Unlike in common blogging where you write an article and forget about it, posts
-are treated as plants in various stages of growth and nurturing. Some might
-wither and die, and others will flourish and provide a source of continued
-knowledge for the gardener and folks in the community that visit.
+This is my digital and public garden, inspired by digital gardens from[derelict.garden](https://derelict.garden) project and the [blue book](https://lyz-code.github.io/blue-book/) initiative by [Lyz](https://github.com/lyz-code) from which this memo quickly bootstraped.
+
+> _A memorandum or a briefing note is a written message that is typically used in a professional setting. Commonly abbreviated "memo,"  these messages are usually brief and are designed to be easily and quickly understood._
+
+Thanks to the above definition of _memo_, that's why this wiki/memo/
+blue-book was born in the first place. I'll try to be brief but not shallow.
+For longer posts and other themes, you can always check my [blog](https://blog.nullniverse.xyz)
+
 
 To follow the updates of this site, subscribe to any of the
 [RSS feeds](https://memo.nullniverse.xyz/newsletter/0_newsletter_index/).
 
 # Visiting the garden
 
-If this is your first visit, welcome!, you may be overwhelmed by the amount of
-content and don't know where to start reading. Start with the first article that
-grabs your attention of the navigation tree on the left and be ready to follow
-the internal links to read the rest.
+Welcome, foreigner! This content is not extensive but serves to aid my long term goals in learning. 
 
-Or you can use it as a reference, by using the top search field or by cloning
-the author's [git repository](https://github.com/lyz-code/blue-book) and using grep like
+You can choose any category or article that sparks you curiosity on the left navigation pane. 
+
+You can also use it as a reference, by using the top search field or by cloning
+the original author's [git repository](https://github.com/lyz-code/blue-book) and using grep like
 tools.
 
 # History
 
-I've tried writing blogs in the past, but it doesn't work for me. I can't stand
-the idea of having to save some time to sit and write a full article of
-something I've done. I need to document *at the same time* as I develop or
-learn. As I usually use incremental reading or work on several projects, I don't
-write one article, but improve several at the same time in a unordered way.
-That's why I embrace
-[Gwern's Long Content principle](https://www.gwern.net/About#long-content).
+Like the previous author (Lyz) did, I also tried writing blogs with no sucess in the past. The content is most static - even though you can 
+jump in and perform minor adjustments/changes. But if you are a prolific writer, as time passes by, your content are bound to increase and get lost in time. 
 
-The only drawback of this format is that there is no friendly way for a reader
-to keep updated with the changes, that's why I created
-[mkdocs-newsletter](https://lyz-code.github.io/mkdocs-newsletter/).
+The sheer amount of content I read and work on during day to day situations are huge.
+Having incremental writing could aid tackle these issues and remove 
+guilty effect of missing out on something.
+[Gwern's Long Content principle](https://www.gwern.net/About#long-content) does apply to my style and I'm trying to follow it!
 
-In 2016 I started writing in text files summaries of different concepts, how to
-install or how to use tools. In the beginning it was plaintext, then came
-[Markdown](https://en.wikipedia.org/wiki/Markdown), then
-[Asciidoc](https://en.wikipedia.org/wiki/AsciiDoc), I did several refactors to
-reorder the different articles based in different structured ways, but I always
-did it with myself as the only target audience.
 
-Three years, 7422 articles and almost 50 million lines later, I found
-[Gwern's website](https://www.gwern.net/) and
-[Nikita's wiki](https://wiki.nikitavoloboev.xyz), which made me think that it
-was time to do another refactor to give my wiki a semantical structure, go
-beyond a simple reference making it readable and open it to the internet.
+Lyz created the [mkdocs-newsletter](https://lyz-code.github.io/mkdocs-newsletter/) so you can subscribe and follow along with the changes.
 
-And the blue book was born.
 
 # Contributing
 
