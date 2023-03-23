@@ -38,6 +38,6 @@ A NAS server represents the first solution, while systems like
 [Ceph](https://ceph.io/en/) or [GlusterFS](https://www.gluster.org/) over [Odroid HC4](https://www.odroid.co.uk/ODROID-HC4) fall into the second.
 
 Both are robust and flexible but I'm more inclined towards building
-a [NAS](nas.md) because it can hold the amount of data that I need, it's easier
+a NAS because it can hold the amount of data that I need, it's easier
 to maintain and the underlying technology has been more battle proven throughout
 the years.

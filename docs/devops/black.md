@@ -57,9 +57,9 @@ Its configuration is stored in `pyproject.toml`.
 
 You can use it both with:
 
-* The Vim [plugin](vim_plugins.md#black)
+* The Vim [plugin](/docs/vim_plugins.md#black)
 
-* [Pre-commit](ci.md#configuring-pre-commit):
+* [Pre-commit](/docs/devops/ci.md#configuring-pre-commit):
 
     !!! note "File: .pre-commit-config.yaml"
         ```yaml
