@@ -2,7 +2,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     
-    <title>Nullniverse&#39;s Blue Book</title>
+    <title>My Memo</title>
     <description>My personal digital garden</description>
     <link>https://memo.nullniverse.xyz</link>
     <atom:link href="https://memo.nullniverse.xyz/yearly.xml" rel="self" type="application/rss+xml"/>
@@ -11,7 +11,7 @@
     <managingEditor>nullniverse</managingEditor>
 
     
-    <pubDate>2023-03-23 06:16:14.118515</pubDate>
+    <pubDate>2023-03-23 23:15:22.897121</pubDate>
     <ttl>525600</ttl>
 
     
@@ -19,7 +19,7 @@
 
     
     
-    <image><url>https://memo.nullniverse.xyz/img/logo.bmp</url><title>Nullniverse's Blue Book</title>
+    <image><url>https://memo.nullniverse.xyz/img/logo.bmp</url><title>My Memo</title>
       <link>https://memo.nullniverse.xyz</link>
     </image>
     
