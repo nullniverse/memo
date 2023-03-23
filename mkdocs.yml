@@ -6,6 +6,134 @@ site_url: https://memo.nullniverse.xyz
 nav:
   - Introduction: index.md
   - Contact: contact.md
+  - DevOps:
+      - devops/devops.md
+      - Infrastructure as Code:
+          - Gitea: gitea.md
+          - Helm:
+              - devops/helm/helm.md
+              - Helm Installation: devops/helm/helm_installation.md
+              - Helm Commands: devops/helm/helm_commands.md
+              - Helm Secrets: devops/helm/helm_secrets.md
+              - Helm Git: helm_git.md
+          - Helmfile: devops/helmfile.md
+          - Terraform: terraform.md
+          - Ansible Snippets: ansible_snippets.md
+          - Dotfiles:
+              - dotfiles.md
+              - Chezmoi: chezmoi.md
+              - Dotdrop: dotdrop.md
+      - Infrastructure Solutions:
+          - Kubernetes:
+              - devops/kubernetes/kubernetes.md
+              - Architecture: devops/kubernetes/kubernetes_architecture.md
+              - Resources:
+                  - Namespaces: devops/kubernetes/kubernetes_namespaces.md
+                  - Pods: devops/kubernetes/kubernetes_pods.md
+                  - ReplicaSets: devops/kubernetes/kubernetes_replicasets.md
+                  - Deployments: devops/kubernetes/kubernetes_deployments.md
+                  - Horizontal Pod Autoscaling: >-
+                      devops/kubernetes/kubernetes_hpa.md
+                  - Volumes: devops/kubernetes/kubernetes_volumes.md
+                  - Services: devops/kubernetes/kubernetes_services.md
+                  - Labels: devops/kubernetes/kubernetes_labels.md
+                  - Annotations: devops/kubernetes/kubernetes_annotations.md
+                  - Ingress: devops/kubernetes/kubernetes_ingress.md
+                  - Operators: devops/kubernetes/kubernetes_operators.md
+                  - Jobs: devops/kubernetes/kubernetes_jobs.md
+              - Kubectl:
+                  - devops/kubectl/kubectl.md
+                  - Kubectl Installation: devops/kubectl/kubectl_installation.md
+                  - Kubectl Commands: devops/kubectl/kubectl_commands.md
+              - Additional Components:
+                  - Metrics Server: devops/kubernetes/kubernetes_metric_server.md
+                  - Ingress Controller: >-
+                      devops/kubernetes/kubernetes_ingress_controller.md
+                  - External DNS: devops/kubernetes/kubernetes_external_dns.md
+                  - Cluster Autoscaler: >-
+                      devops/kubernetes/kubernetes_cluster_autoscaler.md
+                  - Dashboard: devops/kubernetes/kubernetes_dashboard.md
+                  - Storage Driver: devops/kubernetes/kubernetes_storage_driver.md
+                  - Vertical Pod Autoscaler: >-
+                      devops/kubernetes/kubernetes_vertical_pod_autoscaler.md
+              - Networking: devops/kubernetes/kubernetes_networking.md
+              - Debugging: kubernetes_debugging.md
+              - Backups:
+                  - Velero: velero.md
+              - Tools:
+                  - devops/kubernetes/kubernetes_tools.md
+                  - Krew: krew.md
+                  - Ksniff: ksniff.md
+                  - Mizu: mizu.md
+          - AWS:
+              - devops/aws/aws.md
+              - AWS Snippets: aws_snippets.md
+              - AWS Savings plan: aws_savings_plan.md
+              - Security groups workflow: devops/aws/security_groups.md
+              - EKS: devops/aws/eks.md
+              - IAM:
+                  - devops/aws/iam/iam.md
+                  - IAM Commands: devops/aws/iam/iam_commands.md
+                  - IAM Debugging: devops/aws/iam/iam_debug.md
+              - S3: devops/aws/s3.md
+              - WAF: aws_waf.md
+      - Continuous Integration:
+          - devops/ci.md
+          - Drone: drone.md
+          - Linters:
+              - Alex: devops/alex.md
+              - Flakeheaven: flakeheaven.md
+              - Flake8: devops/flake8.md
+              - Markdownlint: devops/markdownlint.md
+              - Proselint: devops/proselint.md
+              - Yamllint: devops/yamllint.md
+              - Write Good: devops/write_good.md
+          - Formatters/Fixers:
+              - Black: devops/black.md
+              - Yamlfix: yamlfix.md
+              - Pyment: pyment.md
+              - mdformat: mdformat.md
+          - Type Checkers:
+              - Mypy: devops/mypy.md
+          - Security Checkers:
+              - Safety: devops/safety.md
+              - Bandit: devops/bandit.md
+          - Dependency managers:
+              - Pip-tools: devops/pip_tools.md
+      - Automating Processes:
+          - cookiecutter: linux/cookiecutter.md
+          - cruft: linux/cruft.md
+          - renovate: renovate.md
+          - letsencrypt: letsencrypt.md
+      - Storage:
+          - storage.md
+          - NAS: nas.md
+          - OpenZFS: 
+            - linux/zfs.md
+            - OpenZFS storage planning: zfs_storage_planning.md
+            - Sanoid: sanoid.md
+      - Monitoring:
+          - Monitoring Comparison: monitoring_comparison.md
+          - Prometheus:
+              - devops/prometheus/prometheus.md
+              - Architecture: devops/prometheus/prometheus_architecture.md
+              - Prometheus Operator: devops/prometheus/prometheus_operator.md
+              - Prometheus Install: devops/prometheus/prometheus_installation.md
+              - AlertManager: devops/prometheus/alertmanager.md
+              - Blackbox Exporter: devops/prometheus/blackbox_exporter.md
+              - Elasticsearch Exporter: elasticsearch_exporter.md
+              - Node Exporter: devops/prometheus/node_exporter.md
+              - Instance sizing analysis: devops/prometheus/instance_sizing_analysis.md
+              - Prometheus Troubleshooting: >-
+                  devops/prometheus/prometheus_troubleshooting.md
+      - Authentication:
+          - Authentik: authentik.md
+      - Self-hosted services:
+          - Ombi: ombi.md
+      - API Management:
+          - devops/api_management.md
+          - Kong: devops/kong/kong.md
+
 
 plugins:
   - search
