@@ -263,7 +263,7 @@ To [install it](https://github.com/fralau/mkdocs-mermaid2-plugin#installation):
             format: !%21python/name:mermaid2.fence_mermaid
   ```
 
-Check the [MermaidJS](mermaidjs.md) article to see how to create the diagrams.
+Check the [MermaidJS](/docs/mermaidjs.md) article to see how to create the diagrams.
 
 # [Plugin development](https://www.mkdocs.org/user-guide/plugins/)
 
@@ -482,7 +482,7 @@ You need to have a
 in `tests/assets/test_data`, with it's `mkdocs.yml` file that loads your plugin
 and some fake articles.
 
-To prepare the test we can define the next [fixture](pytest.md#fixtures) that
+To prepare the test we can define the next [fixture](/docs/pytest.md#fixtures) that
 prepares the building of the site:
 
 File: `tests/conftest.py`:
