@@ -887,11 +887,11 @@ You may want to synchronize your calendar entries with external ones shared with
 
 The orgmode docs have a tutorial to [sync with google](https://orgmode.org/worg/org-tutorials/org-google-sync.html) and suggests some orgmode packages that do that, sadly it won't work with `nvim-orgmode`. We'll need to go the "ugly way" by:
 
-* Downloading external calendar events to ics with [`vdirsyncer`](vdirsyncer.md).
+* Downloading external calendar events to ics with `vdirsyncer`.
 * [Importing the ics to orgmode](#importing-the-ics-to-orgmode)
 * Editing the events in orgmode
 * [Exporting from orgmode to ics](#exporting-from-orgmode-to-ics)
-* Uploading then changes to the external calendar events with [`vdirsyncer`](vdirsyncer.md).
+* Uploading then changes to the external calendar events with `vdirsyncer`.
 
 ### Importing the ics to orgmode
 
