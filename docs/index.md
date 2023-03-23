@@ -3,7 +3,7 @@ title: Introduction
 author: nullniverse
 ---
 
-This is my digital and public garden, inspired by digital gardens from[derelict.garden](https://derelict.garden) project and the [blue book](https://lyz-code.github.io/blue-book/) initiative by [Lyz](https://github.com/lyz-code) from which this memo quickly bootstraped.
+This is my digital and public garden, inspired by digital gardens from [derelict.garden](https://derelict.garden) project and the [blue book](https://lyz-code.github.io/blue-book/) initiative by [Lyz](https://github.com/lyz-code) from which this memo quickly bootstraped.
 
 > _A memorandum or a briefing note is a written message that is typically used in a professional setting. Commonly abbreviated "memo,"  these messages are usually brief and are designed to be easily and quickly understood._
 
@@ -45,7 +45,7 @@ If you find a mistake or want to add new content, please make the changes. You
 can use the edit button on the top right of any article to add them in a pull
 request, if you don't know what that means, you can always open an
 [issue](https://memo.nullniverse.xyz/issues/new) or send me an
-[email](https://blog.nullniverse.xyz/#_osint_me).
+[email](mailto:nullniverse@pm.me).
 
 # Thank you
 
