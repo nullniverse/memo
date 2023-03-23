@@ -34,7 +34,7 @@ There are two types of solutions to store data:
 * Distributed: The disks are attached to many servers and they work together to
     provide the storage through the local network.
 
-A [NAS](nas.md) server represents the first solution, while systems like
+A NAS server represents the first solution, while systems like
 [Ceph](https://ceph.io/en/) or [GlusterFS](https://www.gluster.org/) over [Odroid HC4](https://www.odroid.co.uk/ODROID-HC4) fall into the second.
 
 Both are robust and flexible but I'm more inclined towards building

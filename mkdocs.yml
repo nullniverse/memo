@@ -107,7 +107,6 @@ nav:
           - letsencrypt: letsencrypt.md
       - Storage:
           - storage.md
-          - NAS: nas.md
           - OpenZFS: 
             - linux/zfs.md
             - OpenZFS storage planning: zfs_storage_planning.md

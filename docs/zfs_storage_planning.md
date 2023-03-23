@@ -106,7 +106,7 @@ idea of the fault tolerance. Some examples
 
 It’s easy to think that all hard drives are equal, save for the form factor and
 connection type. However, there’s a difference between the work your hard drive
-does in your computer versus the workload of a [NAS](nas.md) hard drive. A drive
+does in your computer versus the workload of a NAS hard drive. A drive
 in your computer may only read and write data for a couple hours at a time,
 while a NAS drive may read and write data for weeks on end, or even longer.
 
