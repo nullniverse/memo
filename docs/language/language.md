@@ -16,3 +16,7 @@ I'll be very vague about learning languages here regarding the methods as each i
 Nonethless, it would be very unfair to not pinpoint one of my (unknowingly) mentors, Stephen Krashen:
 
 [![S. Krashen](https://img.youtube.com/vi/K2ixixuXhmU/3.jpg)](http://www.youtube.com/watch?v=K2ixixuXhmU "S. Krashen on Language Acquisition")
+
+And the next and most important is how to learn and retain vocabulary fast:
+
+[![Steve Kaufmann](https://img.youtube.com/vi/8EqcL-HVYWE/2.jpg)](http://www.youtube.com/watch?v=8EqcL-HVYWE "Learn Vocabulary Fast")
