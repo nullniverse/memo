@@ -146,7 +146,6 @@ plugins:
   - minify:
       minify_html: true
   - section-index
-  - mkdocs-newsletter
 
 markdown_extensions:
   - abbr

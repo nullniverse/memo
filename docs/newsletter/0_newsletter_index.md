@@ -19,6 +19,6 @@ see the latest changes.
 
 # Credits
 
-The newsletters and the RSS feeds are automatically created from the message commits of
+The newsletters and the RSS feeds (not activated here) are automatically created from the message commits of
 the repository thanks to the
 [mkdocs-newsletter](https://lyz-code.github.io/mkdocs-newsletter/) plugin.
