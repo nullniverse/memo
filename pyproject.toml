@@ -14,7 +14,6 @@ dependencies = [
     "mkdocs-material",
     "mkdocs-section-index",
     "pymdown-extensions",
-    "mkdocs-newsletter",
     "mkdocs-autolinks-plugin>=0.5.0",
     "mkdocs-exclude-search>=0.6.4",
 ]

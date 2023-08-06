@@ -319,23 +319,6 @@ dependencies = [
     "mkdocs>=1.4.1",
 ]
 
-[[package]]
-name = "mkdocs-newsletter"
-version = "1.0.1"
-requires_python = ">=3.7"
-summary = "Automatically create newsletters from the changes in a mkdocs repository"
-dependencies = [
-    "beautifulsoup4>=4.10.0",
-    "deepdiff>=5.7.0",
-    "gitpython>=3.1.27",
-    "mkdocs-autolinks-plugin>=0.4.0",
-    "mkdocs-git-revision-date-localized-plugin>=1.0.0",
-    "mkdocs-material>=8.2.5",
-    "mkdocs-section-index>=0.3.3",
-    "mkdocs>=1.2.3",
-    "pydantic>=1.9.0",
-    "python-semantic-release>=7.26.0",
-]
 
 [[package]]
 name = "mkdocs-section-index"
@@ -906,10 +889,6 @@ content_hash = "sha256:a0f9e668edb122c5384093dcee6011a6f154efeab678753b258e6cd2a
 "mkdocs-minify-plugin 0.6.4" = [
     {url = "https://files.pythonhosted.org/packages/09/b0/ae4e5eb003f1856a7f37780d7cd7fa49998cb042a35902139ed0ace69dc9/mkdocs-minify-plugin-0.6.4.tar.gz", hash = "sha256:1906e9687c39ded7d1ca959c76c6e52da6a8d0765e3981ad9812d3a489f1ecdb"},
     {url = "https://files.pythonhosted.org/packages/b6/46/66433ff68136dd08ec71c08d160d94e3f9b27411f3a276bbdafed4c60b82/mkdocs_minify_plugin-0.6.4-py3-none-any.whl", hash = "sha256:c0221053968a68418245228e04b0d5bc7e6b1a1940db721a52c7ec98d898242e"},
-]
-"mkdocs-newsletter 1.0.1" = [
-    {url = "https://files.pythonhosted.org/packages/06/d7/0e334bcf3297a07bc8455dab225eaae187294d2c39b1316f47e3c162aba7/mkdocs-newsletter-1.0.1.tar.gz", hash = "sha256:67ed079bc1db50cf04b657d310f0ae5c5ad6d765e1f8053a38fcb041190215ae"},
-    {url = "https://files.pythonhosted.org/packages/3e/9a/32cee396c1417c551f7cb8125e1c248ca69de70fcd8270703870f6483e2d/mkdocs_newsletter-1.0.1-py3-none-any.whl", hash = "sha256:6802851abbf0bae86b9a3622375e732054023cfa775d4e0db89d6aaa5690d880"},
 ]
 "mkdocs-section-index 0.3.5" = [
     {url = "https://files.pythonhosted.org/packages/57/d6/8dcb7ee8e7f450007ab1e9c722db67941010542210532ac7f972216567dc/mkdocs_section_index-0.3.5-py3-none-any.whl", hash = "sha256:1f6359287b0a823d6297cf1cb6c0a49ed75851d0d1cea8b425b207a45ce10141"},
