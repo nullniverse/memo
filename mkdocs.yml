@@ -132,7 +132,7 @@ nav:
       - API Management:
           - devops/api_management.md
           - Kong: devops/kong/kong.md
-  - Language Learning:
+  - Languages:
       - language/language.md
       - Chinese:
           - language/chinese/chinese.md
