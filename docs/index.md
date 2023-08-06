@@ -12,9 +12,6 @@ blue-book was born in the first place. I'll try to be brief but not shallow.
 For longer posts and other themes, you can always check my [blog](https://blog.nullniverse.xyz)
 
 
-To follow the updates of this site, subscribe to any of the
-[RSS feeds](https://memo.nullniverse.xyz/newsletter/0_newsletter_index/).
-
 # Visiting the garden
 
 Welcome, foreigner! This content is not extensive but serves to aid my long term goals in learning. 

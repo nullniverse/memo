@@ -132,6 +132,8 @@ nav:
       - API Management:
           - devops/api_management.md
           - Kong: devops/kong/kong.md
+  - Language Learning:
+      - language/language.md 
 
 
 plugins:
@@ -210,8 +212,6 @@ extra:
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/nullniverse
-    - icon: fontawesome/solid/rss
-      link: https://nullniverse.github.io/memo/newsletter/0_newsletter_index
 
 repo_name: nullniverse/memo
 repo_url: https://github.com/nullniverse/memo
