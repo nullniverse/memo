@@ -182,7 +182,7 @@ theme:
 
   jobs:
     deploy:
-      runs-on: ubuntu-18.04
+      runs-on: ubuntu-latest
       steps:
         - uses: actions/checkout@v2
           with:
@@ -193,7 +193,7 @@ theme:
         - name: Setup Python
           uses: actions/setup-python@v1
           with:
-            python-version: '3.7'
+            python-version: '3.11'
             architecture: x64
 
         - name: Cache dependencies
