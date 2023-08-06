@@ -581,6 +581,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://memo.nullniverse.xyz/language/chinese/chinese/</loc>
+         <lastmod>2023-08-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://memo.nullniverse.xyz/language/russian/russian/</loc>
+         <lastmod>2023-08-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://memo.nullniverse.xyz/linux/brew/</loc>
          <lastmod>2023-08-06</lastmod>
          <changefreq>daily</changefreq>
