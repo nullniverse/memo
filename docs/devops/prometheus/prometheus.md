@@ -13,7 +13,7 @@ alerting. The project is written in Go and licensed under the Apache
 of the Cloud Native Computing Foundation, along with Kubernetes and Envoy.
 
 <p align="center">
-    <img src="/blue-book/img/prometheus_logo.png">
+    <img src="img/prometheus_logo.png">
 </p>
 
 
